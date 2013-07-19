@@ -5,8 +5,8 @@ body{
 	background-size: cover;
 }
 .cs-text {
-	width: 700px;
-	margin: 30px auto 30px;
+	width: 600px;
+	margin: 70px auto 30px;
 }
 
 /* Micro clearfix hack by Nicolas Gallagher http://nicolasgallagher.com/micro-clearfix-hack/ */
